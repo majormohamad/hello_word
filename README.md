@@ -1,2 +1,3 @@
 # hello_word
-just learning
+i just learning
+this is my word:)
